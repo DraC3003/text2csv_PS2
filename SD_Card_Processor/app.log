@@ -1,0 +1,44 @@
+2025-07-29 13:03:25,677 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-29 13:03:27,319 - INFO - Found existing removable drives: ['E:\\']
+2025-07-29 13:03:28,773 - INFO - Scanning drive: E:\
+2025-07-29 13:03:28,773 - INFO - Processing: E:\Rohan.txt
+2025-07-29 13:03:28,773 - INFO - Created new CSV file: medical_data.csv
+2025-07-29 13:03:28,773 - INFO - Appended 5 rows to medical_data.csv
+2025-07-29 13:03:28,773 - INFO - Successfully processed 1 new text files from E:\
+2025-07-29 13:03:28,773 - INFO - Starting SD card monitoring...
+2025-07-29 13:03:28,773 - INFO - Insert your SD card to automatically process text files...
+2025-07-29 13:03:28,773 - INFO - Press Ctrl+C to stop monitoring
+2025-07-29 13:04:21,066 - INFO - 
+Monitoring stopped by user
+2025-07-29 15:55:16,181 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-29 15:55:17,776 - INFO - Starting SD card monitoring...
+2025-07-29 15:55:17,776 - INFO - Insert your SD card to automatically process text files...
+2025-07-29 15:55:17,776 - INFO - Press Ctrl+C to stop monitoring
+2025-07-29 16:02:25,870 - INFO - 
+Monitoring stopped by user
+2025-07-29 18:00:49,645 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-29 18:01:08,190 - INFO - Starting SD card monitoring...
+2025-07-29 18:01:08,190 - INFO - Insert your SD card to automatically process text files...
+2025-07-29 18:01:08,190 - INFO - Press Ctrl+C to stop monitoring
+2025-07-29 18:18:17,090 - INFO - 
+Monitoring stopped by user
+2025-07-30 11:45:50,838 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 11:50:02,942 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 12:25:31,518 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 12:25:39,565 - INFO - Starting SD card monitoring...
+2025-07-30 12:25:39,565 - INFO - Insert your SD card to automatically process text files...
+2025-07-30 12:25:39,565 - INFO - Press Ctrl+C to stop monitoring
+2025-07-30 12:25:42,723 - INFO - 
+Monitoring stopped by user
+2025-07-30 14:18:21,847 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 14:22:09,684 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 15:39:40,531 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 15:42:26,683 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 15:43:36,716 - INFO - Starting SD card monitoring...
+2025-07-30 15:43:36,716 - INFO - Insert your SD card to automatically process text files...
+2025-07-30 15:43:36,716 - INFO - Press Ctrl+C to stop monitoring
+2025-07-30 15:43:39,585 - INFO - 
+Monitoring stopped by user
+2025-07-30 15:48:49,823 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 16:14:52,359 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
+2025-07-30 16:16:54,985 - INFO - === Automatic SD Card Text-to-CSV Converter (Industrial Version) ===
