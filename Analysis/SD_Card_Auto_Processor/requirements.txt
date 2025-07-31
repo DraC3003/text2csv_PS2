@@ -1,0 +1,16 @@
+# SD Card Auto Processor Requirements
+
+# Required packages:
+psutil>=5.8.0  # For proper removable drive detection (SD cards, USB drives)
+
+# Python standard library (no installation required):
+# - csv (for CSV file handling)
+# - json (for configuration files) 
+# - logging (for logging)
+# - os (for file system operations)
+# - datetime (for timestamps)
+
+# Optional packages for future enhancements:
+# pandas>=1.3.0  # For advanced CSV manipulation
+# watchdog>=2.1.0  # For monitoring SD card insertion
+# openpyxl>=3.0.0  # For Excel file support

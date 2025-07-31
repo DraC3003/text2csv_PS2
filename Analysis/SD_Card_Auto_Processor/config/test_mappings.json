@@ -1,0 +1,125 @@
+{
+  "Cal": {
+    "folder_name": "analyser_Cal",
+    "eipl_file": "EIPL_BIO-CHEQ_Aabir_1.xlsx - Cal.csv",
+    "columns": [
+      "Sr. No.",
+      "Device ID",
+      "Patient ID",
+      "Barcode ID",
+      "Patient ID_BIOCHEQ",
+      "OPD/IPD",
+      "Age",
+      "Gender",
+      "Test type",
+      "Parameters",
+      "Date & Time",
+      "Raw Value",
+      "BIO-CHEQ",
+      "Gold Sandard",
+      "Accuracy (%)",
+      "Technician name",
+      "Temperature",
+      "Humidity",
+      "Smoking Status",
+      "Alcohol Consumption",
+      "Fasting Status",
+      "Disease/Condition history",
+      "Current Medication",
+      "Complaint Chief",
+      "Diagnosis"
+    ],
+    "sd_card_mapping": {
+      "Patient ID": 0,
+      "Age": 2,
+      "Gender": 3,
+      "BIO-CHEQ": 4,
+      "Smoking Status": 5,
+      "Alcohol Consumption": 6,
+      "Fasting Status": 7
+    },
+    "required_fields": ["Patient ID", "BIO-CHEQ"],
+    "test_type_identifier": ["Cal", "Calcium"]
+  },
+  "Glucose": {
+    "folder_name": "analyser_Glucose",
+    "eipl_file": "EIPL_BIO-CHEQ_Aabir_1.xlsx - Glucose.csv",
+    "columns": [
+      "Sr. No.",
+      "Device ID",
+      "Patient ID",
+      "Barcode ID",
+      "Patient ID_BIOCHEQ",
+      "OPD/IPD",
+      "Age",
+      "Gender",
+      "Test type",
+      "Parameters",
+      "Date & Time",
+      "Device value (in conc.)",
+      "Gold Std. Value"
+    ],
+    "sd_card_mapping": {
+      "Patient ID": 0,
+      "Age": 2,
+      "Gender": 3,
+      "Device value (in conc.)": 4
+    },
+    "required_fields": ["Patient ID", "Device value (in conc.)"],
+    "test_type_identifier": ["Glucose", "Gluc"]
+  },
+  "Hb": {
+    "folder_name": "analyser_Hb",
+    "eipl_file": "EIPL_BIO-CHEQ_Aabir_1.xlsx - Hb.csv",
+    "columns": [
+      "Sr. No.",
+      "Device ID",
+      "Patient ID",
+      "Barcode ID",
+      "Patient ID_BIOCHEQ",
+      "OPD/IPD",
+      "Age",
+      "Gender",
+      "Test type",
+      "Parameters",
+      "Date & Time",
+      "BIO-CHEQ",
+      "Gold Sandard",
+      "error"
+    ],
+    "sd_card_mapping": {
+      "Patient ID": 0,
+      "Age": 2,
+      "Gender": 3,
+      "BIO-CHEQ": 4
+    },
+    "required_fields": ["Patient ID", "BIO-CHEQ"],
+    "test_type_identifier": ["Hb", "Hemoglobin", "Haemoglobin"]
+  },
+  "Chloride": {
+    "folder_name": "analyser_Chloride",
+    "eipl_file": "EIPL_BIO-CHEQ_Aabir_1.xlsx - Chloride.csv",
+    "columns": [
+      "Sr. No.",
+      "Device ID",
+      "Patient ID",
+      "Barcode ID",
+      "Patient ID_BIOCHEQ",
+      "OPD/IPD",
+      "Age",
+      "Gender",
+      "Test type",
+      "Parameters",
+      "Date & Time",
+      "BIO-CHEQ"
+    ],
+    "sd_card_mapping": {
+      "Patient ID": 0,
+      "Age": 2,
+      "Gender": 3,
+      "BIO-CHEQ": 4
+    },
+    "required_fields": ["Patient ID", "BIO-CHEQ"],
+    "test_type_identifier": ["Chloride", "Cholride", "Cl"]
+  }
+}

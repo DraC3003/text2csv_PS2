@@ -1,0 +1,35 @@
+{
+  "common_defaults": {
+    "Age": 30,
+    "Gender": "Not Specified",
+    "OPD/IPD": "OPD",
+    "Test type": "Serum",
+    "Date & Time": "auto_timestamp",
+    "Device ID": "4A1",
+    "Technician name": "Auto_Processor",
+    "Temperature": "22°C",
+    "Humidity": "45%"
+  },
+  "test_specific_defaults": {
+    "Cal": {
+      "Parameters": "Calcium",
+      "Smoking Status": "Unknown",
+      "Alcohol Consumption": "Unknown",
+      "Fasting Status": "Unknown",
+      "Disease/Condition history": "None",
+      "Current Medication": "None",
+      "Complaint Chief": "None",
+      "Diagnosis": "None"
+    },
+    "Glucose": {
+      "Parameters": "Glucose"
+    },
+    "Hb": {
+      "Parameters": "Hemoglobin",
+      "Test type": "Blood"
+    },
+    "Chloride": {
+      "Parameters": "Cholride"
+    }
+  }
+}

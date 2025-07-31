@@ -1,0 +1,24 @@
+# Sample SD Card Data Format
+# This file shows the expected format for SD card text files
+# Format: PatientID, TestName, Age, Gender, Reading, [Optional Fields...]
+
+# Calcium samples (with optional lifestyle data)
+PMT24205895, Cal, 45, Female, 9.67, Yes, No, Fasting
+PMT24236051, Calcium, 32, Male, 7.81, No, Yes, NonFasting
+
+# Glucose samples (simple format)
+PMT25001685, Glucose, 28, Male, 121
+PMT21008442, Gluc, 35, Female, 77.74
+
+# Hemoglobin samples
+PMT24140363, Hb, 21, Female, 9.97
+PMT24175398, Hemoglobin, 42, Male, 13.76
+
+# Chloride samples
+PMT25088925, Chloride, 27, Male, 91.5
+PMT22315634, Cl, 79, Female, 96.5
+
+# Mixed format examples with missing optional data
+PMT99999999, Cal, , Female, 8.5, , Unknown
+PMT88888888, Glucose, 40, , 150
+PMT77777777, Hb, 30, Male, 
