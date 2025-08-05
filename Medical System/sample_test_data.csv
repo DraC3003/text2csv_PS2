@@ -1,0 +1,7 @@
+patient_id,first_name,last_name,date_of_birth,gender,test_name,test_value,test_date,unit,lab_technician,notes
+P001,John,Doe,1990-01-15,Male,Hemoglobin,8.5,2024-07-15,g/dL,Dr. Smith,Severe anemia detected
+P001,John,Doe,1990-01-15,Male,White Blood Cell Count,12000,2024-07-15,cells/uL,Dr. Smith,Elevated WBC
+P002,Jane,Smith,1985-03-22,Female,Hemoglobin,15.2,2024-07-20,g/dL,Dr. Johnson,Normal levels
+P002,Jane,Smith,1985-03-22,Female,Glucose,200,2024-07-20,mg/dL,Dr. Johnson,High glucose levels
+P003,Mike,Brown,2000-12-10,Male,Hemoglobin,18.5,2024-07-25,g/dL,Dr. Wilson,Elevated hemoglobin
+P003,Mike,Brown,2000-12-10,Male,Cholesterol,280,2024-07-25,mg/dL,Dr. Wilson,High cholesterol

@@ -1,0 +1,11 @@
+Sr. No.,Device ID,Patient ID,Barcode ID,Patient ID_BIOCHEQ,OPD/IPD,Age,Gender,Test type,Parameters,Test Value,Unit,Date & Time,BIO-CHEQ Notes,Unused Column
+1,DEV001,P001,BC12345,BQ001,OPD,45,Male,Blood Test,Blood Glucose,105.5,mg/dL,2024-01-15 09:30:00,Normal reading,
+2,DEV001,P002,BC12346,BQ002,IPD,32,Female,Blood Test,Hemoglobin,11.2,g/dL,2024-01-15 10:15:00,Slight anemia,
+3,DEV001,P003,BC12347,BQ003,OPD,67,Male,Blood Test,Cholesterol Total,245.8,mg/dL,2024-01-15 11:00:00,High cholesterol,
+4,DEV001,P001,BC12348,BQ001,OPD,45,Male,Blood Test,Creatinine,0.9,mg/dL,2024-01-15 14:30:00,Kidney function normal,
+5,DEV001,P004,BC12349,BQ004,IPD,28,Female,Blood Test,Blood Glucose,118.2,mg/dL,2024-01-16 08:45:00,Pre-diabetic range,
+6,DEV001,P002,BC12350,BQ002,IPD,32,Female,Blood Test,Cholesterol Total,185.6,mg/dL,2024-01-16 09:30:00,Within normal limits,
+7,DEV001,P005,BC12351,BQ005,OPD,55,Other,Blood Test,Hemoglobin,13.8,g/dL,2024-01-16 10:45:00,Normal hemoglobin,
+8,DEV001,P003,BC12352,BQ003,OPD,67,Male,Blood Test,Blood Glucose,142.3,mg/dL,2024-01-16 11:15:00,Diabetes monitoring,
+9,DEV001,P006,BC12353,BQ006,OPD,19,Female,Blood Test,Creatinine,0.7,mg/dL,2024-01-16 14:00:00,Young adult normal,
+10,DEV001,P004,BC12354,BQ004,IPD,28,Female,Blood Test,Hemoglobin,9.8,g/dL,2024-01-16 15:30:00,Iron deficiency suspected

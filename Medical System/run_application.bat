@@ -1,0 +1,9 @@
+@echo off
+echo Starting Medical Test Data Management System...
+echo.
+echo Installing dependencies if needed...
+pip install -r requirements.txt > nul 2>&1
+echo.
+echo Launching application...
+python main.py
+pause

@@ -1,0 +1,56 @@
+{
+  "custom_test_ranges": [
+    {
+      "test_name": "Blood Glucose",
+      "range_name": "Diabetic Monitoring",
+      "age_min": 18,
+      "age_max": 80,
+      "gender": null,
+      "condition_name": "Diabetes",
+      "normal_min": 80.0,
+      "normal_max": 130.0,
+      "critical_low": 70.0,
+      "critical_high": 200.0,
+      "notes": "Tight glucose control for diabetic patients"
+    },
+    {
+      "test_name": "Hemoglobin",
+      "range_name": "Pediatric Range",
+      "age_min": 2,
+      "age_max": 12,
+      "gender": null,
+      "condition_name": null,
+      "normal_min": 11.0,
+      "normal_max": 14.0,
+      "critical_low": 8.0,
+      "critical_high": 18.0,
+      "notes": "Age-adjusted hemoglobin levels for children"
+    },
+    {
+      "test_name": "Cholesterol Total",
+      "range_name": "High Risk Cardiac",
+      "age_min": 40,
+      "age_max": null,
+      "gender": null,
+      "condition_name": "Cardiac Risk",
+      "normal_min": 100.0,
+      "normal_max": 180.0,
+      "critical_low": null,
+      "critical_high": 240.0,
+      "notes": "Stricter cholesterol targets for high-risk cardiac patients"
+    },
+    {
+      "test_name": "Creatinine",
+      "range_name": "Chronic Kidney Disease",
+      "age_min": 18,
+      "age_max": null,
+      "gender": null,
+      "condition_name": "CKD",
+      "normal_min": 0.6,
+      "normal_max": 1.5,
+      "critical_low": 0.3,
+      "critical_high": 3.0,
+      "notes": "Modified range for patients with chronic kidney disease"
+    }
+  ]
+}
